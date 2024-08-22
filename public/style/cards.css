@@ -1,0 +1,43 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    max-width: 400px;
+    border: 2px solid black;
+    transition: .2s;
+    gap: 20px;
+}
+
+.card:hover{
+    background-color: #000;
+    color: white;
+}
+
+#two{
+    display: none;
+    transition: .01s;
+}
+
+.card:hover #two{
+    display: block;
+}
+
+.card:hover #one{
+    display: none;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width:1020px) {
+    .cards{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    }
+}

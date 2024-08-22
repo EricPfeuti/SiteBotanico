@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.btn-pesquisar button{
+    padding: 1em 2em;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background: linear-gradient(to right, #75B649, #3e6f1d);
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+    font-size: 14px;
+    width: 180px;
+    height: 60px;
+}
+
+.btn-pesquisar button::after{
+    content: '';
+    background: linear-gradient(to right, #a9ed7c, #c5ff9e);
+    height: 100%;
+    width: 0px;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    transition: .2s ease-in-out;
+}
+
+.btn-pesquisar button:hover::after{
+    width: 100%;
+}
+
+.btn-pesquisar button:hover{
+    color: black;
+}
+
+.btn-social button{
+    border: none;
+    background-color: #3e6922;
+    width: 68px;
+    height: 68px;
+    border-radius: 40px;
+    font-size: 38px;
+    margin: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: .3s ease;
+}
+
+.btn-social button:hover{
+    background: #1d812c;
+}
+
+@media screen and (max-width: 1020px) {
+    
+    .btn-social button{
+        width: 40px;
+        height: 40px;
+    }
+
+}
+
+

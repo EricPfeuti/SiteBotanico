@@ -1,0 +1,23 @@
+[
+  {
+    "nome_popular": "Mamona",
+    "propriedade": "Planta boa para estomago",
+    "nome_cientifico": "Ricinus communis",
+    "caracteristicas_gerais": "Planta de arbustos de medio porte.",
+    "url_imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-yd9CPzzfvY-cnogyTfpXFlSmtpkGklt-A&s"
+  },
+  {
+    "nome_popular": "Babosa",
+    "nome_cientifico": "Aloe vera",
+    "propriedade": "Planta boa para tratar feridas",
+    "caracteristicas_gerais": "Planta de folhas verdes e carnudas, com bordas serrilhadas.",
+    "url_imagem": "https://super.abril.com.br/wp-content/uploads/2024/01/0301-super-site3.jpg?quality=90&strip=info&w=720&h=440&crop=1"
+  },
+  {
+    "nome_popular": "Manjericão",
+    "nome_cientifico": "Ocimum basilicum",
+    "propriedade": "Planta boa para aliviar dores de cabeça",
+    "caracteristicas_gerais": "Erva aromática com folhas ovais, verdes e brilhantes.",
+    "url_imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVc7-0-DdxBsiXBpuCnCypqMRwjGCzJ9N8jg&s"
+  }
+]

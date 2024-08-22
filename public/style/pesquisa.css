@@ -1,0 +1,41 @@
+body{
+    height: 100vh;
+}
+
+form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pesquisa-do-site{
+    padding: 200px 4%;
+}
+
+.pesquisa-do-site h1{
+    font-size: 48px;
+    color: #000;
+    font-weight: 600;
+}
+
+.pesquisa-do-site h3{
+    font-size: 24px;
+    color: #000;
+    font-weight: 600;
+}
+
+.txt-meio-site{
+    text-align: center;
+}
+
+@media screen and (max-width: 1020px) {
+    
+    .pesquisa-do-site h1{
+        font-size: 40px;
+        color: #000;
+        font-weight: 600;
+    }
+
+}
