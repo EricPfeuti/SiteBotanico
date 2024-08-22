@@ -1,1 +1,1 @@
-<img src="images/SiteBotanico.PNG">
+<img src="public/images/SiteBotanico.PNG">
