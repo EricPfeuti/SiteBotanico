@@ -1,8 +1,8 @@
-# API de Plantas
+# API de Plantas - Arquivo JSON
 
 <img src="public/images/SiteBotanico.PNG">
 
-## Olá! Criei esta API para uma avaliação escolar utilizando BootStrap que contém algumas plantas e nela você pode:<br/>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;"> Olá! Criei esta API para uma avaliação escolar utilizando BootStrap que contém algumas plantas e nela você pode:<br/>
 - Adicionar plantas;<br/>
 - Excluir plantas;<br/>
 - Pesquisar plantas por propriedade e por nome;<br/>
