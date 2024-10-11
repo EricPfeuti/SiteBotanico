@@ -10,5 +10,5 @@
 - Verficar todos as plantas nesta API em formato de cards;<br/>
 - Você pode também testar a versão para mobile;<br/>
 
-## Linguagens que utilizei para fazer esta API:
+## LINGUAGENS UTILIZADAS:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
