@@ -12,6 +12,3 @@
 
 ## Linguagens que utilizei para fazer esta API:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
-
-## Lembretes:
-Não se esqueça de instalar o npm install express no terminal e depois escreve node server.js para ver a API funcionando!!
