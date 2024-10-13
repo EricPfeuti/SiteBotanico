@@ -8,7 +8,6 @@
 - Pesquisar plantas por propriedade e por nome;<br/>
 - Editar dados de uma planta;<br/>
 - Verficar todos as plantas nesta API em formato de cards;<br/>
-- Você pode também testar a versão para mobile;<br/>
 
 ## LINGUAGENS UTILIZADAS:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css)](https://skillicons.dev)
